@@ -25,7 +25,7 @@ This bash script automates the process of updating the server, installing necess
 2. In the address bar, enter the IP address or hostname of your server.
 3. You should now see the deployed application running on the web.
 
-# ===================================================================================
+# ==========================================================================
 
 ### Script Automatizado de Atualização de Servidor e Implantação de Aplicativo
 
